@@ -1,0 +1,88 @@
+{
+	"takeData": [
+        {          
+          "name": "甜品饮料",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/DessertDrinks"
+
+        }, {
+
+          "name": "美食",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+        }, {
+
+          "name": "准时达",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+          
+        }, {
+          
+          "name": "新店特惠",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+        },
+        {
+          
+          "name": "鲜花蛋糕",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+        },
+        {
+          
+          "name": "包子粥店",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+        },
+        {
+          
+          "name": "商超便利",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+        },
+        {
+          
+          "name": "预定早餐",
+          "imgUrl":"../assets/img/elm.png",
+          "link":"/footerGuide/order"
+        }
+  ],
+  "storeData":[
+        {
+          "ToSend":"20",
+          "DeliveryFee":"5",
+          "link":"/nearstore"
+        },
+        {
+          "ToSend":"30",
+          "DeliveryFee":"3",
+          "link":"/nearstore"
+        },
+        {
+          "ToSend":"40",
+          "DeliveryFee":"5",
+          "link":"/nearstore"
+        },
+        {
+          "ToSend":"20",
+          "DeliveryFee":"3",
+          "link":"/nearstore"
+        },
+        {
+          "ToSend":"20",
+          "DeliveryFee":"3",
+          "link":"/nearstore"
+        },
+        {
+          "ToSend":"20",
+          "DeliveryFee":"3",
+          "link":"/nearstore"
+        },
+        {
+          "ToSend":"20",
+          "DeliveryFee":"3",
+          "link":"/nearstore"
+        }
+  ]
+
+}

@@ -1,0 +1,27 @@
+{
+	"listData":
+	[
+	    {"link":"/common","name":"超级会员权益说明"},
+	    {"link":"/common","name":"签到规则"},
+	    {"link":"/common","name":"用户等级说明"},
+	    {"link":"/common","name":"积分问题"},
+	    {"link":"/common","name":"教我拍大片"},
+	    {"link":"/common","name":"支付问题"},
+	    {"link":"/common","name":"其它问题"},
+	    {"link":"/footerGuide/order","name":"准时达问题"},
+	    {"link":"/footerGuide/order","name":"会员说明"},
+	    {"link":"/footerGuide/order","name":"会员问题"},
+	    {"link":"/footerGuide/order","name":"红包问题"},
+	    {"link":"/footerGuide/order","name":"活动细则"},
+	    {"link":"/footerGuide/order","name":"补签规则"},
+	    {"link":"/footerGuide/order","name":"优惠说明"},
+	    {"link":"/footerGuide/order","name":"免费声明"},
+	    {"link":"/footerGuide/order","name":"代金券说明"},
+	    {"link":"/footerGuide/order","name":"商务合作"},
+	    {"link":"/footerGuide/order","name":"余额问题"},
+	    {"link":"/footerGuide/order","name":"超赞商家"},
+	    {"link":"/footerGuide/order","name":"匿名购买"},
+	    {"link":"/footerGuide/order","name":"活动问题"}
+	    
+	]
+}
